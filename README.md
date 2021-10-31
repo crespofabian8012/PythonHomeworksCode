@@ -6,6 +6,5 @@ I used Python 2.7 and Anaconda.
 
 Simulation of pedestrians dynamics around the Kaaba in Mecca(Netlogo)
 
-![alt text](https://github.com/crespofabian8012/PythonHomeworksCode
-/blob/master/image.png?raw=true)
+![alt text](https://github.com/crespofabian8012/PythonHomeworksCode/blob/master/image.png?raw=true)
 
