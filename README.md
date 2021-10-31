@@ -11,4 +11,10 @@ Simulation of pedestrians dynamics around the Kaaba in Mecca(Netlogo)
 
 Sierpisnky carpet
 
-![Pedestrians](https://github.com/crespofabian8012/PythonHomeworksCode/blob/master/deberes/image.png?raw=true)
+![Sierpinsky](https://github.com/crespofabian8012/PythonHomeworksCode/blob/master/deberes/image.png?raw=true)
+
+
+Pacman Reinforcenment leaning( Netlogo)
+
+
+![Pacman](https://github.com/crespofabian8012/PythonHomeworksCode/blob/master/deberes/Pacman2.png?raw=true)
